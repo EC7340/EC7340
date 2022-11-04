@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EC7340
+- 👋 Hi, I’m Collins Evesi
 - 👀 I’m interested in becoming a super software developer
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking for who will mentor me and make me achieve such goal
